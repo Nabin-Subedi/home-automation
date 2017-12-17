@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890256772607",
+    "firebase_url": "https://smartpower-6d865.firebaseio.com",
+    "project_id": "smartpower-6d865",
+    "storage_bucket": "smartpower-6d865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890256772607:android:f73b25e8e9a8ae8e",
+        "android_client_info": {
+          "package_name": "com.example.bishal.smartoutlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890256772607-orllagn8p4h00h4m4r9h0in619cpvq2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9d71RJwIPIutOpxr_-wzAbpLRewU1vjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890256772607-orllagn8p4h00h4m4r9h0in619cpvq2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
